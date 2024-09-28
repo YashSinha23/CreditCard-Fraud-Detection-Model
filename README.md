@@ -28,7 +28,7 @@ This project aims to detect fraudulent credit card transactions using machine le
 - `model.pkl` : Trained model saved a .pkl file ready for Deployment
 
 ## DataSet
-the dataset used in this project is a Public dataset availaible on Kaggle :
+The dataset used in this project is a Public dataset availaible on Kaggle :
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ## Conclusion
